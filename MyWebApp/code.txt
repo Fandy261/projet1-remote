@@ -2,4 +2,9 @@ ligne1
 ligne2
 amm
 ssss
+<<<<<<< HEAD
 ligne
+ligne3
+ligne4
+ligne5
+>>>>>>> 7577eac89f3bd49b4aa18765e3c7ae75832ff190
